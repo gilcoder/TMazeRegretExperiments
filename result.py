@@ -36,26 +36,53 @@ regreted_agent = {(0, 0) :  [[5.6222916], [9.9919599e-01, 3.4575362e-04, 8.03640
 											(2, 2) :  [[44.452682], [9.9999762e-01, 1.2798776e-06, 3.2370078e-08, 1.1172995e-06]]}
 
 states = [(0, 0), (0, 1), (0, 2), (0, 3),  (0, 4), (0, 5), (0, 6), (0, 7), (0, 8), (0,9), (1, 0), (1, 1), (1, 2), (2, 0), (2, 1), (2, 2)]
-Q1 = {}
-Q2 = {}
-for s in states:
-	r1 = trained_agent[s]
-	r2 = regreted_agent[s]
-	for a in [0, 1, 2, 3]:
-		Q1[(s, a)] = r1[0][0] * r1[1][a]
-		Q2[(s, a)] = r2[0][0] * r2[1][a]
 
-for s in states:
-	r = trained_agent[s]
-	r2 = regreted_agent[s]
-	newvalue1 = 0
-	for b in [0, 1, 2, 3]:
-		newvalue1 += r2[1][b] * Q2[(s, b)]
-	newvalue2 = 0
-	for a in [0, 1, 2, 3]:
-		newvalue2 += r[1][a] * Q2[(s, a)]
-	
-	print("Regret(%s)"%(s, ), " = ", newvalue1 - newvalue2)
+
+
+def default_def():
+	Q1 = {}
+	Q2 = {}
+	for s in states:
+		r1 = trained_agent[s]
+		r2 = regreted_agent[s]
+		for a in [0, 1, 2, 3]:
+			Q1[(s, a)] = r1[0][0] * r1[1][a]
+			Q2[(s, a)] = r2[0][0] * r2[1][a]
+
+	for s in states:
+		r = trained_agent[s]
+		r2 = regreted_agent[s]
+		a = np.argmax(r[1])
+		b = np.argmax(r2[1])
+		newvalue1 = Q2[(s, b)]
+		newvalue2 = Q2[(s, a)]
+		print("Regret(%s)"%(s, ), " = ", newvalue1 - newvalue2)	
+
+def probabilistic_def():
+	Q1 = {}
+	Q2 = {}
+	for s in states:
+		r1 = trained_agent[s]
+		r2 = regreted_agent[s]
+		for a in [0, 1, 2, 3]:
+			Q1[(s, a)] = r1[0][0] * r1[1][a]
+			Q2[(s, a)] = r2[0][0] * r2[1][a]
+
+	for s in states:
+		r = trained_agent[s]
+		r2 = regreted_agent[s]
+		newvalue1 = 0
+		for b in [0, 1, 2, 3]:
+			newvalue1 += r2[1][b] * Q2[(s, b)]
+		newvalue2 = 0
+		for a in [0, 1, 2, 3]:
+			newvalue2 += r[1][a] * Q2[(s, a)]
+		
+		print("Regret(%s)"%(s, ), " = ", newvalue1 - newvalue2)
+
+
+if __name__ == "__main__":
+	probabilistic_def()
 
 
 
