@@ -1,2 +1,4 @@
 # TMazeRegretExperiments
-The Regret Experiments Based On (Deep) Reinforcement Learning Models/Algorithms
+The Regret Experiments Based On (Deep) Reinforcement Learning Models/Algorithms.
+
+

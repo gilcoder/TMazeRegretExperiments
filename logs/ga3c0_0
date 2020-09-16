@@ -1,0 +1,182 @@
+starting client 0
+env 0 [episodeinfo]: ep_number 1; ep_nstpes: 15; ep_loss 42.271029; ep_entropy 0.232313; ep_values 16.328476; ep_reward_sum -33.000000;
+
+env 0 [episodeinfo]: ep_number 2; ep_nstpes: 12; ep_loss 53.727564; ep_entropy 0.385746; ep_values 31.862717; ep_reward_sum -30.000000;
+
+env 0 [episodeinfo]: ep_number 3; ep_nstpes: 12; ep_loss 53.513550; ep_entropy 0.540591; ep_values 47.323190; ep_reward_sum -30.000000;
+
+env 0 [episodeinfo]: ep_number 4; ep_nstpes: 12; ep_loss 53.299667; ep_entropy 0.696229; ep_values 62.709854; ep_reward_sum -30.000000;
+
+env 0 [episodeinfo]: ep_number 5; ep_nstpes: 12; ep_loss 53.086197; ep_entropy 0.852380; ep_values 78.022671; ep_reward_sum -30.000000;
+
+env 0 [episodeinfo]: ep_number 6; ep_nstpes: 13; ep_loss 48.260240; ep_entropy 1.043878; ep_values 93.460912; ep_reward_sum -31.000000;
+
+env 0 [episodeinfo]: ep_number 7; ep_nstpes: 15; ep_loss 36.084245; ep_entropy 1.209112; ep_values 107.811137; ep_reward_sum -31.000000;
+
+env 0 [episodeinfo]: ep_number 8; ep_nstpes: 16; ep_loss 38.154442; ep_entropy 1.471952; ep_values 123.750876; ep_reward_sum -34.000000;
+
+env 0 [episodeinfo]: ep_number 9; ep_nstpes: 12; ep_loss 52.237615; ep_entropy 1.624234; ep_values 138.768335; ep_reward_sum -30.000000;
+
+env 0 [episodeinfo]: ep_number 10; ep_nstpes: 16; ep_loss 37.794079; ep_entropy 1.896432; ep_values 154.521817; ep_reward_sum -34.000000;
+
+env 0 [episodeinfo]: ep_number 11; ep_nstpes: 16; ep_loss 36.296951; ep_entropy 2.136853; ep_values 169.837929; ep_reward_sum -34.000000;
+
+env 0 [episodeinfo]: ep_number 12; ep_nstpes: 13; ep_loss 47.662236; ep_entropy 2.327161; ep_values 184.941612; ep_reward_sum -31.000000;
+
+env 0 [episodeinfo]: ep_number 13; ep_nstpes: 13; ep_loss 46.763878; ep_entropy 2.505949; ep_values 199.826372; ep_reward_sum -31.000000;
+
+env 0 [episodeinfo]: ep_number 14; ep_nstpes: 12; ep_loss 51.190404; ep_entropy 2.651241; ep_values 214.475564; ep_reward_sum -30.000000;
+
+env 0 [episodeinfo]: ep_number 15; ep_nstpes: 12; ep_loss 50.981522; ep_entropy 2.794639; ep_values 229.050985; ep_reward_sum -30.000000;
+
+env 0 [episodeinfo]: ep_number 16; ep_nstpes: 12; ep_loss 50.772690; ep_entropy 2.936100; ep_values 243.552524; ep_reward_sum -30.000000;
+
+env 0 [episodeinfo]: ep_number 17; ep_nstpes: 13; ep_loss 45.218844; ep_entropy 3.085023; ep_values 257.986782; ep_reward_sum -31.000000;
+
+env 0 [episodeinfo]: ep_number 18; ep_nstpes: 12; ep_loss 50.354858; ep_entropy 3.221976; ep_values 272.340371; ep_reward_sum -30.000000;
+
+env 0 [episodeinfo]: ep_number 19; ep_nstpes: 13; ep_loss 45.481182; ep_entropy 3.383705; ep_values 286.749863; ep_reward_sum -31.000000;
+
+env 0 [episodeinfo]: ep_number 20; ep_nstpes: 12; ep_loss 49.936300; ep_entropy 3.515052; ep_values 300.955367; ep_reward_sum -30.000000;
+
+env 0 [episodeinfo]: ep_number 21; ep_nstpes: 12; ep_loss 49.726725; ep_entropy 3.643296; ep_values 315.086758; ep_reward_sum -30.000000;
+
+env 0 [episodeinfo]: ep_number 22; ep_nstpes: 13; ep_loss 45.595041; ep_entropy 3.810174; ep_values 329.385783; ep_reward_sum -31.000000;
+
+env 0 [episodeinfo]: ep_number 23; ep_nstpes: 12; ep_loss 49.308085; ep_entropy 3.932253; ep_values 343.368765; ep_reward_sum -30.000000;
+
+env 0 [episodeinfo]: ep_number 24; ep_nstpes: 13; ep_loss 43.127718; ep_entropy 4.048502; ep_values 357.130055; ep_reward_sum -31.000000;
+
+env 0 [episodeinfo]: ep_number 25; ep_nstpes: 12; ep_loss 48.889186; ep_entropy 4.163852; ep_values 370.964521; ep_reward_sum -30.000000;
+
+env 0 [episodeinfo]: ep_number 26; ep_nstpes: 17; ep_loss 33.177720; ep_entropy 4.426736; ep_values 385.549275; ep_reward_sum -35.000000;
+
+env 0 [episodeinfo]: ep_number 27; ep_nstpes: 13; ep_loss 44.563650; ep_entropy 4.574456; ep_values 399.444388; ep_reward_sum -31.000000;
+
+env 0 [episodeinfo]: ep_number 28; ep_nstpes: 13; ep_loss 44.358389; ep_entropy 4.718750; ep_values 413.258719; ep_reward_sum -31.000000;
+
+env 0 [episodeinfo]: ep_number 29; ep_nstpes: 14; ep_loss 40.720001; ep_entropy 4.891851; ep_values 427.160172; ep_reward_sum -32.000000;
+
+env 0 [episodeinfo]: ep_number 30; ep_nstpes: 13; ep_loss 43.121211; ep_entropy 5.010750; ep_values 440.694744; ep_reward_sum -31.000000;
+
+env 0 [episodeinfo]: ep_number 31; ep_nstpes: 12; ep_loss 47.648026; ep_entropy 5.108384; ep_values 454.083825; ep_reward_sum -30.000000;
+
+env 0 [episodeinfo]: ep_number 32; ep_nstpes: 14; ep_loss 39.404593; ep_entropy 5.250692; ep_values 467.618609; ep_reward_sum -32.000000;
+
+env 0 [episodeinfo]: ep_number 33; ep_nstpes: 13; ep_loss 42.480661; ep_entropy 5.357099; ep_values 480.914552; ep_reward_sum -31.000000;
+
+env 0 [episodeinfo]: ep_number 34; ep_nstpes: 14; ep_loss 39.716400; ep_entropy 5.504478; ep_values 494.384060; ep_reward_sum -32.000000;
+
+env 0 [episodeinfo]: ep_number 35; ep_nstpes: 18; ep_loss 29.439945; ep_entropy 5.723787; ep_values 508.154867; ep_reward_sum -36.000000;
+
+env 0 [episodeinfo]: ep_number 36; ep_nstpes: 24; ep_loss 20.491833; ep_entropy 6.001100; ep_values 522.147899; ep_reward_sum -42.000000;
+
+env 0 [episodeinfo]: ep_number 37; ep_nstpes: 24; ep_loss 20.348770; ep_entropy 6.270269; ep_values 536.023968; ep_reward_sum -42.000000;
+
+env 0 [episodeinfo]: ep_number 38; ep_nstpes: 28; ep_loss 16.445488; ep_entropy 6.552312; ep_values 549.859707; ep_reward_sum -46.000000;
+
+env 0 [episodeinfo]: ep_number 39; ep_nstpes: 16; ep_loss 32.008526; ep_entropy 6.691721; ep_values 562.905933; ep_reward_sum -34.000000;
+
+env 0 [episodeinfo]: ep_number 40; ep_nstpes: 23; ep_loss 21.027621; ep_entropy 6.934292; ep_values 576.397459; ep_reward_sum -41.000000;
+
+env 0 [episodeinfo]: ep_number 41; ep_nstpes: 22; ep_loss 22.093342; ep_entropy 7.162870; ep_values 589.738929; ep_reward_sum -40.000000;
+
+env 0 [episodeinfo]: ep_number 42; ep_nstpes: 16; ep_loss 32.573532; ep_entropy 7.316885; ep_values 602.676948; ep_reward_sum -34.000000;
+
+env 0 [episodeinfo]: ep_number 43; ep_nstpes: 20; ep_loss 24.587317; ep_entropy 7.518423; ep_values 615.721193; ep_reward_sum -38.000000;
+
+env 0 [episodeinfo]: ep_number 44; ep_nstpes: 16; ep_loss 32.209610; ep_entropy 7.667034; ep_values 628.470933; ep_reward_sum -34.000000;
+
+env 0 [episodeinfo]: ep_number 45; ep_nstpes: 12; ep_loss 44.879695; ep_entropy 7.731783; ep_values 640.836849; ep_reward_sum -30.000000;
+
+env 0 [episodeinfo]: ep_number 46; ep_nstpes: 17; ep_loss 29.560064; ep_entropy 7.888567; ep_values 653.445230; ep_reward_sum -35.000000;
+
+env 0 [episodeinfo]: ep_number 47; ep_nstpes: 22; ep_loss 21.193426; ep_entropy 8.091725; ep_values 666.112866; ep_reward_sum -40.000000;
+
+env 0 [episodeinfo]: ep_number 48; ep_nstpes: 27; ep_loss 16.117957; ep_entropy 8.321828; ep_values 678.758288; ep_reward_sum -45.000000;
+
+env 0 [episodeinfo]: ep_number 49; ep_nstpes: 23; ep_loss 19.725115; ep_entropy 8.525329; ep_values 691.220067; ep_reward_sum -41.000000;
+
+env 0 [episodeinfo]: ep_number 50; ep_nstpes: 27; ep_loss 15.867635; ep_entropy 8.749413; ep_values 703.622577; ep_reward_sum -45.000000;
+
+env 0 [episodeinfo]: ep_number 51; ep_nstpes: 37; ep_loss 25.646128; ep_entropy 9.260414; ep_values 731.547439; ep_reward_sum -55.000000;
+
+env 0 [episodeinfo]: ep_number 52; ep_nstpes: 16; ep_loss 30.607693; ep_entropy 9.391513; ep_values 743.448545; ep_reward_sum -34.000000;
+
+env 0 [episodeinfo]: ep_number 53; ep_nstpes: 16; ep_loss 30.433746; ep_entropy 9.521396; ep_values 755.255363; ep_reward_sum -34.000000;
+
+env 0 [episodeinfo]: ep_number 54; ep_nstpes: 41; ep_loss 18.989110; ep_entropy 10.052257; ep_values 780.577276; ep_reward_sum -59.000000;
+
+env 0 [episodeinfo]: ep_number 55; ep_nstpes: 14; ep_loss 35.392101; ep_entropy 10.149205; ep_values 792.091263; ep_reward_sum -32.000000;
+
+env 0 [episodeinfo]: ep_number 56; ep_nstpes: 20; ep_loss 22.243585; ep_entropy 10.317452; ep_values 803.521091; ep_reward_sum -38.000000;
+
+env 0 [episodeinfo]: ep_number 57; ep_nstpes: 18; ep_loss 25.384026; ep_entropy 10.465683; ep_values 814.848785; ep_reward_sum -36.000000;
+
+env 0 [episodeinfo]: ep_number 58; ep_nstpes: 18; ep_loss 25.223672; ep_entropy 10.612553; ep_values 826.074445; ep_reward_sum -36.000000;
+
+env 0 [episodeinfo]: ep_number 59; ep_nstpes: 17; ep_loss 27.017768; ep_entropy 10.747284; ep_values 837.208338; ep_reward_sum -35.000000;
+
+env 0 [episodeinfo]: ep_number 60; ep_nstpes: 23; ep_loss 17.926784; ep_entropy 10.930224; ep_values 848.178421; ep_reward_sum -41.000000;
+
+env 0 [episodeinfo]: ep_number 61; ep_nstpes: 14; ep_loss 34.333426; ep_entropy 11.021785; ep_values 859.181753; ep_reward_sum -32.000000;
+
+env 0 [episodeinfo]: ep_number 62; ep_nstpes: 39; ep_loss 20.278234; ep_entropy 11.497536; ep_values 882.730433; ep_reward_sum -57.000000;
+
+env 0 [episodeinfo]: ep_number 63; ep_nstpes: 25; ep_loss 15.510591; ep_entropy 11.683638; ep_values 893.210164; ep_reward_sum -43.000000;
+
+env 0 [episodeinfo]: ep_number 64; ep_nstpes: 18; ep_loss 24.120056; ep_entropy 11.820314; ep_values 903.720082; ep_reward_sum -36.000000;
+
+env 0 [episodeinfo]: ep_number 65; ep_nstpes: 13; ep_loss 36.836905; ep_entropy 11.890598; ep_values 914.355328; ep_reward_sum -31.000000;
+
+env 0 [episodeinfo]: ep_number 66; ep_nstpes: 16; ep_loss 27.905661; ep_entropy 12.002791; ep_values 924.741794; ep_reward_sum -34.000000;
+
+env 0 [episodeinfo]: ep_number 67; ep_nstpes: 17; ep_loss 25.565507; ep_entropy 12.123502; ep_values 934.986047; ep_reward_sum -35.000000;
+
+env 0 [episodeinfo]: ep_number 68; ep_nstpes: 16; ep_loss 27.577616; ep_entropy 12.231088; ep_values 945.181984; ep_reward_sum -34.000000;
+
+env 0 [episodeinfo]: ep_number 69; ep_nstpes: 30; ep_loss 11.443878; ep_entropy 12.417611; ep_values 954.847634; ep_reward_sum -48.000000;
+
+env 0 [episodeinfo]: ep_number 70; ep_nstpes: 50; ep_loss 10.471887; ep_entropy 12.861910; ep_values 973.832664; ep_reward_sum -68.000000;
+
+env 0 [episodeinfo]: ep_number 71; ep_nstpes: 47; ep_loss 11.698443; ep_entropy 13.287943; ep_values 992.541594; ep_reward_sum -65.000000;
+
+env 0 [episodeinfo]: ep_number 72; ep_nstpes: 71; ep_loss 10.521077; ep_entropy 13.955788; ep_values 1019.924353; ep_reward_sum -89.000000;
+
+env 0 [episodeinfo]: ep_number 73; ep_nstpes: 41; ep_loss 15.727417; ep_entropy 14.365492; ep_values 1038.457930; ep_reward_sum -59.000000;
+
+env 0 [episodeinfo]: ep_number 74; ep_nstpes: 12; ep_loss 38.480703; ep_entropy 14.409969; ep_values 1048.148769; ep_reward_sum -30.000000;
+
+env 0 [episodeinfo]: ep_number 75; ep_nstpes: 15; ep_loss 28.148588; ep_entropy 14.497269; ep_values 1057.321486; ep_reward_sum -33.000000;
+
+env 0 [episodeinfo]: ep_number 76; ep_nstpes: 52; ep_loss 8.653643; ep_entropy 14.914786; ep_values 1073.014158; ep_reward_sum -70.000000;
+
+env 0 [episodeinfo]: ep_number 77; ep_nstpes: 13; ep_loss 33.867664; ep_entropy 14.973014; ep_values 1082.226920; ep_reward_sum -31.000000;
+
+env 0 [episodeinfo]: ep_number 78; ep_nstpes: 21; ep_loss 16.909672; ep_entropy 15.101791; ep_values 1090.448272; ep_reward_sum -39.000000;
+
+env 0 [episodeinfo]: ep_number 79; ep_nstpes: 34; ep_loss 29.625142; ep_entropy 15.397034; ep_values 1113.141860; ep_reward_sum -52.000000;
+
+env 0 [episodeinfo]: ep_number 80; ep_nstpes: 26; ep_loss 12.037034; ep_entropy 15.537092; ep_values 1120.718932; ep_reward_sum -44.000000;
+
+env 0 [episodeinfo]: ep_number 81; ep_nstpes: 31; ep_loss 54.659333; ep_entropy 15.685031; ep_values 1154.607654; ep_reward_sum -49.000000;
+
+env 0 [episodeinfo]: ep_number 82; ep_nstpes: 14; ep_loss 29.436754; ep_entropy 15.743728; ep_values 1163.069643; ep_reward_sum -32.000000;
+
+env 0 [episodeinfo]: ep_number 83; ep_nstpes: 12; ep_loss 36.583453; ep_entropy 15.777188; ep_values 1171.908549; ep_reward_sum -30.000000;
+
+env 0 [episodeinfo]: ep_number 84; ep_nstpes: 24; ep_loss 13.034103; ep_entropy 15.885344; ep_values 1179.032674; ep_reward_sum -42.000000;
+
+env 0 [episodeinfo]: ep_number 85; ep_nstpes: 48; ep_loss 9.204067; ep_entropy 16.164291; ep_values 1191.818478; ep_reward_sum -66.000000;
+
+env 0 [episodeinfo]: ep_number 86; ep_nstpes: 36; ep_loss 21.480925; ep_entropy 16.387877; ep_values 1208.776546; ep_reward_sum -54.000000;
+
+env 0 [episodeinfo]: ep_number 87; ep_nstpes: 22; ep_loss 14.310183; ep_entropy 16.469918; ep_values 1215.504784; ep_reward_sum -40.000000;
+
+env 0 [episodeinfo]: ep_number 88; ep_nstpes: 21; ep_loss 15.253124; ep_entropy 16.545127; ep_values 1222.221627; ep_reward_sum -39.000000;
+
+env 0 [episodeinfo]: ep_number 89; ep_nstpes: 13; ep_loss 31.375871; ep_entropy 16.577915; ep_values 1230.197535; ep_reward_sum -31.000000;
+
+env 0 [episodeinfo]: ep_number 90; ep_nstpes: 34; ep_loss 27.722656; ep_entropy 16.733303; ep_values 1249.583007; ep_reward_sum -52.000000;
+
+Client 0 finished on time 20200913-124620
